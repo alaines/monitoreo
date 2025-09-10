@@ -1,0 +1,10 @@
+$(document).ready(function() {
+    $('#ticketsDetalle').DataTable({
+            language: {
+                url: '/incidencias/vendor/datatables/es_ES.json'
+            }
+        });
+        
+    $('.view').tooltip();
+    $('.edit').tooltip();
+});
