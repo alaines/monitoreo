@@ -1,0 +1,5 @@
+{
+    "CodeGPT.query.language": "Spanish",
+    "CodeGPT.Autocomplete.enabled": true,
+    "CodeGPT.Autocomplete.provider": "CodeGPT Plus - Plus"
+}
